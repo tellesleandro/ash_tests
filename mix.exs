@@ -32,7 +32,7 @@ defmodule AshTests.MixProject do
   # Type `mix help deps` for examples and options.
   defp deps do
     [
-      {:ash_postgres, "~> 1.3"},
+      {:ash_postgres, "~> 1.5.27"},
       {:ash, "~> 2.17"},
       {:bandit, "~> 1.2"},
       {:dns_cluster, "~> 0.1.1"},
